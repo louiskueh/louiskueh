@@ -6,11 +6,13 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://yt.vu/+louiskueh)
 [![GitHub followers](https://img.shields.io/github/followers/louiskueh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
 
-
+Software Developer | Part-time Youtuber | https://yt.vu/+louiskueh
 
 # Stats
 
 [![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiskueh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiskueh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **louiskueh/louiskueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

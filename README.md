@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louiskueh/)](https://www.linkedin.com/in/louiskueh/)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@louiskueh)
+[![GitHub followers](https://img.shields.io/github/followers/louiskueh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
+
 <!--
 **louiskueh/louiskueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

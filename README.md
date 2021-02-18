@@ -6,6 +6,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://yt.vu/+louiskueh)
 [![GitHub followers](https://img.shields.io/github/followers/louiskueh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
 
+![background](myBG.jpg)
+
 Software Developer | Part-time Youtuber | https://yt.vu/+louiskueh
 
 - 🔭 I’m currently working on automation tools

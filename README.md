@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louiskueh/)](https://www.linkedin.com/in/louiskueh/)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@louiskueh)
 [![GitHub followers](https://img.shields.io/github/followers/louiskueh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Flouiskueh.com)]
 
 <!--
 **louiskueh/louiskueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

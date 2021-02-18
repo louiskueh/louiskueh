@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/website?label=louiskueh.com&style=flat-square&url=https://louiskueh.com)](https://louiskueh.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louiskueh/)](https://www.linkedin.com/in/louiskueh/)
 [![Medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@louiskueh)
-[![Youtube](https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg)](https://yt.vu/+louiskueh)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://yt.vu/+louiskueh)
 [![GitHub followers](https://img.shields.io/github/followers/louiskueh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/louiskueh?tab=followers)
 
 

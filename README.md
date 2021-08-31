@@ -10,7 +10,7 @@
 
 Software Developer | Part-time Youtuber | https://yt.vu/+louiskueh
 
-- 🔭 I’m currently working on automation tools
+- 🔭 I’m currently working on game dev
 - 🌱 I’m currently learning flutter
 - ⚡ Fun fact: I've lived in 7 different countries!
 # Stats

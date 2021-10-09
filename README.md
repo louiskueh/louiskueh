@@ -8,7 +8,7 @@
 
 ![background](myBG.jpg)
 
-Full Stack Developer | https://louiskueh.com/ | [https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE](neuron - over 30,000 installs!) 
+Full Stack Developer | https://louiskueh.com/ | [https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE](neuron) -over 30,000 installs!
 
 - 🔭 I’m currently working on game dev
 - 🌱 I’m currently learning flutter
